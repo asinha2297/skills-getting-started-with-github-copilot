@@ -2,3 +2,6 @@ fastapi
 uvicorn
 httpx
 watchfiles
+
+If you want to run the tests, you'll need pytest installed. You can add it to the requirements.txt file:
+pytest
